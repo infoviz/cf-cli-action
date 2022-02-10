@@ -1,6 +1,8 @@
 # CF CLI Action
 Deploy to Cloud Foundry and manage your apps and services using the CF CLI easily with this GitHub Action.
 
+Used by SmartLoader MTAs for CICD to SAP BTP Cloudfoundry.
+
 ## Example Workflow
 ```
 name: Deploy to Cloud Foundry
