@@ -7,6 +7,9 @@ inputs:
   cf_api:
     description: "Target API Endpoint of Cloud Foundry"
     required: true
+  cf_origin_key:
+    description: "IDP Origin Key"
+    required: false
   cf_username:
     description: "Username for API authentication"
     required: true
